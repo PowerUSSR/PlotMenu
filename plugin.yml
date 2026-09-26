@@ -1,0 +1,13 @@
+name: PlotMenu
+version: 1.0
+description: Simple inventory menu for managing plot protection
+author: PowerUSSR
+main: org.mineserver.plotmenu.PlotMenuPlugin
+commands:
+  plotmenu:
+    description: Open plot management menu
+    usage: /plotmenu
+    aliases:
+      - pmenu
+      - plotsettings
+      - plotprotect

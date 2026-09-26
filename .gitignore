@@ -1,0 +1,16 @@
+bin/
+*.class
+*.jar
+*.log
+compile-errors.txt
+classes.txt
+test.txt
+adventure-api-*.jar
+bungeecord-chat.jar
+examination-api-*.jar
+paper-api.jar
+.idea/
+.vscode/
+*.iml
+Thumbs.db
+.DS_Store
